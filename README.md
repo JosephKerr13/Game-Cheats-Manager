@@ -69,3 +69,4 @@ While GCM is designed to be plug-and-play, you have full control over your exper
 For issues, feature requests, or contributions, please visit the [Issues](https://github.com/dyang886/Game-Cheats-Manager/issues) page or join our community via Discord/QQ (links at the top of the page). 
 
 *Note: All trainers are intended strictly for single-player use.*
+,
